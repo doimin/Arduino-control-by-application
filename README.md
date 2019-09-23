@@ -1,3 +1,5 @@
+![Alt text](/image/arduino-using-android-app.png)
+
 Arduino control by application
 ==============================
 2019-2학기 산학캡스톤 디자인2   
