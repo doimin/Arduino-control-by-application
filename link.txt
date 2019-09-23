@@ -1,0 +1,14 @@
+아두이노 - 블루투스 - 안드로이드 어플리케이션
+
+아두이노 자체 IDE 개발
+C, JAVA 베이스 레퍼런싱언어 사용
+
+블루투스 통신 -> HC-06모듈 이용
+관련 링크
+https://happyguy81.tistory.com/69
+https://kocoafab.cc/tutorial/view/97
+https://webnautes.tistory.com/848
+https://bugwhale.com/bluetooth-communication-module-01/
+--------------------------------------------------------
+자체개발 안드로이드 어플 vs 기존 개발 어플 소스 
+안드로이드 스튜디오
