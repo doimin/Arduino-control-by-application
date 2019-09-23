@@ -1,4 +1,6 @@
-<center><img src="/image/arduino-using-android-app.png" width="500" height=300"></center>
+<p align="center">
+<img src="/image/arduino-using-android-app.png" width="500" height=300">
+</p>
 
 Arduino control by application
 ==============================
