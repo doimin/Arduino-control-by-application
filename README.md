@@ -1,4 +1,4 @@
-![Alt text](/image/arduino-using-android-app.png)
+![Alt text](/image/arduino-using-android-app.png){ width=50% }
 
 Arduino control by application
 ==============================
