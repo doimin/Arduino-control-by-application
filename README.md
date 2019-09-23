@@ -1,4 +1,4 @@
-![Alt text](/image/arduino-using-android-app.png){ width=50% }
+<center><img src="/image/arduino-using-android-app.png" width="500" height=300"></center>
 
 Arduino control by application
 ==============================
